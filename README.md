@@ -1,6 +1,5 @@
-# Supervised-project
-## Machine learning, statistical learning, deep learning and artificial intelligence
-
+# Machine learning, statistical learning, deep learning and artificial intelligence. Module statistical learning
+##  Supervised project
 The aim of this research is to understand which are the elements that 
 mostly affect the instructional expenditure per student of the US colleges presented in
 the data. In order to perform this task, the research exploits two important supervised
@@ -13,4 +12,5 @@ each other; polynomial regression is implemented so to understand if some non-li
 models could perform better on the data; model selection is applied exploiting a shrinkage method, the so called Lasso, in order to simplify the model and to consequently
 increase its predictive power. With respect to the tree-based methods, the basic regression tree is pruned in order to reduce overfitting on the dataset; furthermore, using
 the random forest technique, the predictive power of the model is increased.
-# Keywords: Multiple linear regression, polynomial regression, Lasso method, regression tree, pruning, random forest.
+## Keywords
+Multiple linear regression, polynomial regression, Lasso method, regression tree, pruning, random forest.
